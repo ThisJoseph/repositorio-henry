@@ -7,5 +7,5 @@ function saludo(nombre, edad) {
 
 
 function comida(comida, comida2) {
-	console.log('a mi me gusta la ' + comodia + ', y ami amigo le gusta el' + comida2)
+	console.log('a mi me gusta la ' + comodia + ', y a mi amigo le gusta el' + comida2)
 }
